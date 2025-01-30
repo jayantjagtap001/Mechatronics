@@ -1,12 +1,8 @@
-import Counter from "./Componants/Counter"
+import CounterView from "./Componants/view/CounterView";
+
 
 function App() {
-
-  return (
-   <>
-     <Counter/>
-   </>
-  )
+  return <CounterView/>;
 }
 
-export default App
+export default App;
