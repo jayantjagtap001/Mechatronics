@@ -3,7 +3,7 @@
 
 A simple counter application built using React with MVI (Model-View-Intent) architecture.
 
-##🚀 Features
+🚀 Features
 Increment & Decrement: Users can increase or decrease the counter.
 Reset Functionality: Reset the counter to zero.
 Auto-Increment: Toggle automatic increment every second.
