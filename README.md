@@ -9,10 +9,10 @@ Reset Functionality: Reset the counter to zero.
 Auto-Increment: Toggle automatic increment every second.
 
 # 🛠️ Tech Stack
-**Frontend: React, React Hooks 
-**State Management: MVI Architecture
-**Styling: CSS
-**Bundler: Vite
+Frontend: React, React Hooks 
+State Management: MVI Architecture
+Styling: CSS
+Bundler: Vite
 
 # 📌 Usage
 Click + to increment the counter.
