@@ -3,18 +3,18 @@
 
 A simple counter application built using React with MVI (Model-View-Intent) architecture.
 
-🚀 Features
+# 🚀 Features
 Increment & Decrement: Users can increase or decrease the counter.
 Reset Functionality: Reset the counter to zero.
 Auto-Increment: Toggle automatic increment every second.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Frontend: React, React Hooks
 State Management: MVI Architecture
 Styling: CSS
 Bundler: Vite
 
-📌 Usage
+# 📌 Usage
 Click + to increment the counter.
 Click - to decrement the counter.
 Click Reset to reset the counter to zero.
